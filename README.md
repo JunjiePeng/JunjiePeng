@@ -1,6 +1,6 @@
-- I’m @JunjiePeng
-- I’m interested in Atuoimmune Diseases, Multi-Omics Analysis, Machine Learning Techniques and Translational Medicine 
-- I’m currently a PhD at UCL
+- @JunjiePeng
+- interested in Atuoimmune Diseases, Multi-Omics Analysis, Machine Learning Techniques and Translational Medicine 
+- currently a PhD at UCL
 - https://www.researchgate.net/profile/Junjie-Peng
 
 <!---
